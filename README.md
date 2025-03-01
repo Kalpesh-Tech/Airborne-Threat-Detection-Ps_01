@@ -1,4 +1,4 @@
-# AIRBORNE THREAT DETECTION IN SURVEILLANCE VIDEOS
+# AIRBORNE THREAT DETECTION IN SURVEILLANCE PS_01
 
 ## Overview
 Airborne threats, such as drones or other flying objects, pose significant security risks in surveillance scenarios. This project aims to detect airborne threats using deep learning techniques. We collected a dataset from various platforms, applied data augmentation to improve detection accuracy, and trained a YOLOv8 model on Google Colab.
